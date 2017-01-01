@@ -5,6 +5,7 @@
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+* [Joining Instructions](JoiningInstructions.de)
 
 ## Why I joined
 Over Christmas I decided to focus in Q1 2017 on completing Udacity's Full-Stack Nanodegree. As part of this, a complementary objective is I want to really get to grips with Python. 
