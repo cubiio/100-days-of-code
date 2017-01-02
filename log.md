@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+***
+
+### Day 0: Monday, 2nd January 2017
+
+**Today's Progress**: 
+
+* Udacity FSND (Full-Stack Nanodegree) Intro to Databases module.
+	* Learned about SQL (Structured Query Language) 
+	* SQL queries in Python
+
+**Thoughts**: 
+
+* I like the clean readability of SQL queries
+* The intro course is good and it also feels like a refresher course which I like. I did the [tournament planner](https://github.com/cubiio/tournament-planner) project in PostgreSQL as part of the **Intro to Programming Nanodegree** earlier this year. 
+
+**Link(s) to work**: 
+
+* [Github repo](https://github.com/cubiio/fsnd-databases)
+
+***
 
 ### Day -1: Sunday, 1st January 2017
 
@@ -17,15 +37,19 @@
 
 * [Sign-Up Form](https://cubiio-rot13.appspot.com/signup)
 
-
+***
 
 ## Template / Example
 
 ### Day x: Tuesday, 3rd January 2017
 
-**Today's Progress**: Add comments here 
+**Today's Progress**: 
 
-**Thoughts**: Add thoughts 
+* Add comments here 
+
+**Thoughts**: 
+
+* Add thoughts 
 
 **Link(s) to work**: 
 
