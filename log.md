@@ -2,6 +2,26 @@
 
 ***
 
+### Day 1: Tuesday, 3rd January 2017
+
+**Today's Progress**: 
+
+* Udacity FSND (Full-Stack Nanodegree) Intro to Databases module:
+	* More SQL (Structured Query Language) content, including the use of indices and the ACID principle
+	* Started ASCII Chan mini project: Python project using Google App Engine including the Datastore, and Jinja for HTML templates
+
+**Thoughts**: 
+
+* Useful intro to databases but also feels good to be working on a mini-project and following along with the tutor to build a web app.
+* Good fun to build a first app using the Google App Engine Datastore. Next up is the database problem set so looking forward to that.
+
+**Link(s) to work**: 
+
+* [Ascii Chan repo](https://github.com/cubiio/fsnd-aschiiChan)
+* [Database lesson repo](https://github.com/cubiio/fsnd-databases)
+
+***
+
 ### Day 0: Monday, 2nd January 2017
 
 **Today's Progress**: 
