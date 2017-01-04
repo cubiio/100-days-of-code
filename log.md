@@ -2,6 +2,25 @@
 
 ***
 
+### Day 2: Wednesday, 4th January 2017
+
+**Today's Progress**: 
+
+* Built a basic blog using Python, Jinja and Google App Engine 
+
+**Thoughts**: 
+
+* All went well but got stuck on building URLs for new blog-posts. Couldn't get to grips with the documentation for Webapp2 and Google App Engine. *Frustrating*.
+* Tomorrow's task is to complete the URLs and permalink, further refine my Jinja templates and add some CSS.
+
+**Link(s) to work**: 
+
+* [Blog GitHub Repo](https://github.com/cubiio/fsnd-blog)
+
+
+
+***
+
 ### Day 1: Tuesday, 3rd January 2017
 
 **Today's Progress**: 
@@ -60,6 +79,8 @@
 ***
 
 ## Template / Example
+
+***
 
 ### Day x: Tuesday, 3rd January 2017
 
