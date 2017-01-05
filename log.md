@@ -2,6 +2,27 @@
 
 ***
 
+### Day 3: Thursday, 5th January 2017
+
+**Today's Progress**: 
+
+* Finalised a basic blog using Python, Jinja and Google App Engine. 
+* Today I added a handler to redirect to a permalink after a post is successfully submitted.
+* I also revised the Jinja templates so all the child html pages inherit from a `base.html` parent which includes a header. 
+* Continued my Udacity learning with User Accounts & Security module.
+
+**Thoughts**: 
+
+* Pleasing to work through the permalink solution. The Udacity video on this was very helpful although still frustrated I couldn't work it out from the webapp2 and App Engine documentation.
+
+**Link(s) to work**: 
+
+* [Blog GitHub Repo](https://github.com/cubiio/fsnd-blog)
+* [Basic blog demo](https://cubiio-blog.appspot.com/)
+* [Security lesson code](https://github.com/cubiio/fsnd-security/tree/master)
+
+***
+
 ### Day 2: Wednesday, 4th January 2017
 
 **Today's Progress**: 
