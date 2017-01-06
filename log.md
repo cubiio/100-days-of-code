@@ -2,6 +2,23 @@
 
 ***
 
+### Day 4: Friday, 6th January 2017
+
+**Today's Progress**: 
+
+* Completed Udacity's User Accounts & Security module.
+* Topics and code covered today include hashing and salting, and using bcrypt. 
+
+**Thoughts**: 
+
+* Interesting topic and keen to put into practice in the upcoming problem sets.
+
+**Link(s) to work**: 
+
+* [Security lesson code](https://github.com/cubiio/fsnd-security)
+
+***
+
 ### Day 3: Thursday, 5th January 2017
 
 **Today's Progress**: 
@@ -19,7 +36,7 @@
 
 * [Blog GitHub Repo](https://github.com/cubiio/fsnd-blog)
 * [Basic blog demo](https://cubiio-blog.appspot.com/)
-* [Security lesson code](https://github.com/cubiio/fsnd-security/tree/master)
+* [Security lesson code](https://github.com/cubiio/fsnd-security)
 
 ***
 
