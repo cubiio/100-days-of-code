@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 6: Sun 8-Jan-2016
+
+**Today’s Progress**:
+
+* Switching gears today and learning some Python with the book “Automate the Boring Stuff with Python”. Played with some regex stuff and finalised the mini-project for an email and phone number finder.
+
+**Thoughts**:
+
+* Regex always seemed very daunting but this book had a good intro to what it is and how it works with lots of good examples. I think it is still hard to master but I understand more about how it works.
+
+**Link(s) to work**:
+
+* [GitHub - Follow along with the book ‘Automate the boring stuff with Python’](https://github.com/cubiio/automate-boring-stuff-python)
+
+- - - -
 ### Day 5: Sat 7-Jan-2016
 
 **Today’s Progress**:
