@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 7: Mon 9-Jan-2016
+
+**Today’s Progress**:
+
+*Morning*
+
+* Experiment 1: played around with Nunjucks and Gulp. Got a Gulp task up and running to render html based on `.njk` templates.
+* Experiment 2: Wrote a Python script to automate deploying  my Hugo powered [blog](https://cubiio.github.io/). 
+
+*Afternoon*
+
+* Back to my Uddacity FSND studies, focussing on my build a blog project and the first problem set - user registration.
+
+**Thoughts**:
+
+* Really like the excellent Python `sh` module which I discovered via StackOverflow. Used it for my Python automation experiments.
+* Regarding my project to build a blog, pleased with some of the progress I made but need to get my head around some of the new teaching content e.g. setting cookies. 
+
+**Link(s) to work**:
+
+* [Automation experiments](https://github.com/cubiio/automate-boring-stuff-python)
+* [Nunjucks template](https://github.com/cubiio/nunjucks-template)
+* [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
+
+- - - -
 ### Day 6: Sun 8-Jan-2016
 
 **Today’s Progress**:
@@ -153,4 +178,4 @@
 - - - -
 ### Meta
 
-#100DaysOfCode
+
