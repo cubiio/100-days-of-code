@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 8: Tue 10-Jan-2016
+
+**Today’s Progress**:
+
+* A quick win in the morning: redid my front-end workflow to include Nunjucks, and then did a simple imitation of Yeoman to scaffold a front end project using Python. Nothing fancy but folder structure gets set-up and the Github clone takes place, all from the command line.
+* Udacity FSND studies: 
+	* Jinja templates set-up
+	* Password and cookie hashing added
+	* Cookie checking and setting added
+	* Handlers for different pages added
+
+**Thoughts**:
+
+* Udacity FSND studies: a lot of frustration trying to make progress with the blog project. Setting cookies and determining if a user is logged in caused me problems, perhaps a problem with inheritance from a handler? I think I’ll review it against the tutor’s solution, study the code and rationale behind it, then start again to really get to grips with it and understand it. 
+* To end on a positive, pleased with my basic Yeoman scaffolding tool. Used `gitpython` this time to script a `git clone` command.
+
+
+**Link(s) to work**:
+
+* [Automation experiments](https://github.com/cubiio/automate-boring-stuff-python)
+* [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
+
+
+- - - -
 ### Day 7: Mon 9-Jan-2016
 
 **Today’s Progress**:
@@ -11,7 +35,7 @@
 
 *Afternoon*
 
-* Back to my Uddacity FSND studies, focussing on my build a blog project and the first problem set - user registration.
+* Back to my Udacity FSND studies, focussing on my build a blog project and the first problem set - user registration.
 
 **Thoughts**:
 
