@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 9: Wed 11-Jan-2016
+
+**Today’s Progress**:
+
+* A good day! :) 
+* Found and fixed a bug in the cookie hashing helper functions
+* Got user registration, login and logout working. 
+* Added bonus, I restructured my repository per Python best practices.
+
+
+**Thoughts**:
+
+* After the lows of yesterday, the highs of a good day, really pleasing to work through `Set-Cookie` and to implement it in user registration, login and logout.
+* Yesterday I was getting frustrated wading through a file with over 250 lines of code, so was pleasing to work through how to restructure the repository in line with best practices. 
+* Looking forward to tomorrow’s challenges of adding further functionality to the blog.
+
+**Link(s) to work**:
+
+* [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
+
+
+- - - -
 ### Day 8: Tue 10-Jan-2016
 
 **Today’s Progress**:
