@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 - - - -
-### Day 10: The 12-Jan-2016
+### Day 10: Thu 12-Jan-2016
 
 **Today’s Progress**:
 
