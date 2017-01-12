@@ -14,7 +14,7 @@ A day of solid achievement:
 
 **Thoughts**:
 
-* Really pleased with the progress. Laid the groundwork now to move to to address the specific user requirements for the project i.e. comment, likes, edit and delete posts.
+* Really pleased with the progress. Laid the groundwork now to move on to address the specific user requirements for the project i.e. comment, likes, edit and delete posts.
 
 **Link(s) to work**:
 
