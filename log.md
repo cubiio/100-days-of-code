@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 10: The 12-Jan-2016
+
+**Today’s Progress**:
+
+A day of solid achievement:
+
+* Migrated from Google App Engine (GAE) Datastore `db` to `ndb` 
+* Updated my project README including a breakdown and explanation of the revised repo structure
+* Read lots of GAE documentation
+* Extended user login across all pages, thereby enabling a restriction that only users may write blog posts
+* On the main page, changed the blogpost title to a URL redirecting through to the permalink page of the blogpost
+
+**Thoughts**:
+
+* Really pleased with the progress. Laid the groundwork now to move to to address the specific user requirements for the project i.e. comment, likes, edit and delete posts.
+
+**Link(s) to work**:
+
+* [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
+
+- - - -
 ### Day 9: Wed 11-Jan-2016
 
 **Today’s Progress**:
