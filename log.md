@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 11: Fri 13-Jan-2016
+
+**Today’s Progress**:
+
+Continuing to add functionality to my build a blog project:
+
+* Users can edit blogposts
+* Users can delete blogposts
+
+**Thoughts**:
+
+* A lot going on today so less time to work on this than originally planned, still pleased with the progress and am getting to grips with how Google App Engine works. The documentation is really good, great examples of how it all works. 
+
+**Link(s) to work**:
+
+* [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
+
+
+- - - -
 ### Day 10: Thu 12-Jan-2016
 
 **Today’s Progress**:
