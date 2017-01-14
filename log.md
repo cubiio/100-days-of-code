@@ -1,4 +1,23 @@
 # 100 Days Of Code - Log
+
+- - - -
+### Day 12: Sat 14-Jan-2016
+
+**Today’s Progress**:
+
+Family day but managed just over an hour early morning to work on adding authors, to the Model and Page Handlers, as well as the Jinja template e.g. “Post written by …”.
+
+
+**Thoughts**:
+
+* Busy day on other stuff but pleased I still managed to get my hour in. 
+* In addition, I research various articles on Python and Google App Engine when I had a few spare moments. Plenty to read and I think Monday will be a busy day implementing all these ideas.
+
+**Link(s) to work**:
+
+* [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
+
+
 - - - -
 ### Day 11: Fri 13-Jan-2016
 
