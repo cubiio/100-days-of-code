@@ -1,4 +1,19 @@
 # 100 Days Of Code - Log
+- - - -
+### Day 13: Sun 15-Jan-2016
+
+**Today’s Progress**:
+
+Family day but managed just over an hour early morning to work on adding authors, to the Model and Page Handlers, and working datastore queries. 
+
+**Thoughts**:
+
+* Spent my hour coding and testing datastore queries to include in my blog app.
+
+
+**Link(s) to work**:
+
+* [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
 
 - - - -
 ### Day 12: Sat 14-Jan-2016
