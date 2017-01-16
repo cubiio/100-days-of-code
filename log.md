@@ -1,4 +1,28 @@
 # 100 Days Of Code - Log
+
+### Day 14: Mon 16-Jan-2017
+
+**Today’s Progress**:
+
+Project: build a blog 
+
+* Added user commenting functionality 
+* Add authors (query) to display who wrote the post
+2. Added author based constraints i.e. only authors can edit and delete their own posts 
+* Think I've designed how the like functionality will work. Will build and test tomorrow. 
+* Worked out how to build and use my first `@classmethod`  !! :) 
+
+
+**Thoughts**
+
+* Good progress. Plenty of head scratching how to build my data Model and build queries but once I got it, huge satisfaction. 
+* Really excited to build and test my like design to see if it works and in particular to code my very own first `@classmethod` decorator.
+
+
+**Link(s) to work**:
+
+* [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
+
 - - - -
 ### Day 13: Sun 15-Jan-2016
 
