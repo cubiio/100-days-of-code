@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+### Day 15: Tue 17-Jan-2017
+
+**Today’s Progress**:
+
+Project: build a blog 
+
+* Users can like blogposts
+* Constraint: authors can’t like their own posts
+* Wrote my very first `@classmethod`
+
+
+**Thoughts**
+
+* Some good progress but mainly a day of frustration trying to figure our database queries and why my code either throw errors or wasn’t giving the expected result.
+* A tough day but learned a lot. 
+* Key lesson: write, test, iterate. 
+	* **Write** small pieces of code / functionality
+	* **Test** to see if it works and gives the expected result
+	* **Iterate** i.e. write the next small piece of code / functionality.
+	* Final thought: plan the **write / test / iterate** approach so you understand how to develop more and more functionality, whilst testing as you go to make sure it works. 
+
+
+**Link(s) to work**:
+
+* [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
+
+- - - -
+
 ### Day 14: Mon 16-Jan-2017
 
 **Today’s Progress**:
@@ -8,7 +36,7 @@ Project: build a blog
 
 * Added user commenting functionality 
 * Add authors (query) to display who wrote the post
-2. Added author based constraints i.e. only authors can edit and delete their own posts 
+* Added author based constraints i.e. only authors can edit and delete their own posts 
 * Think I've designed how the like functionality will work. Will build and test tomorrow. 
 * Worked out how to build and use my first `@classmethod`  !! :) 
 
