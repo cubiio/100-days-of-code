@@ -1,4 +1,26 @@
 # 100 Days Of Code - Log
+### Day 16
+
+**Today’s Progress**:
+
+_Build a blog project_
+
+* Users can like and unlike posts.
+* A like counter shows how many people liked a post.
+* Added styling including making anchors look like buttons. (Neat trick - found how to do this in CSS on Stack Overflow).
+* Started to build edit comments functionality.
+
+
+**Thoughts**
+
+* Finally cracked finding an entity id in order to modify / delete the entity. 
+* I was much more methodical in my work today, following a planned build, test, iterate approach. Really helped my productivity.
+
+**Link(s) to work**:
+
+* [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
+
+- - - -
 
 ### Day 15: Tue 17-Jan-2017
 
