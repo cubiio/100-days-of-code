@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
-### Day 16
+- - - -
+
+### Day 17: Thu 19-Jan-2017
+
+**Today’s Progress**:
+
+My Build a blog project is complete! Well almost. :) Submitted today for review by Udacity. The final functionality was completed including editing/deleting comments. I also did improved some styling (relatively speaking - I’m freely admit I’m no designer). And I installed Pylint and linted my code. 
+
+Let’s see what the Udacity reviewer says…
+
+**Thoughts**
+
+* Great feeling to complete the project (subject to Udacity’s feedback and decision of course). This is why I’m learning to code!
+* Onwards tomorrow with the next project…
+
+**Link(s) to work**:
+
+* [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
+* [Demo: Cubiio Blog](https://cubiio-blog.appspot.com/)
+
+
+- - - -
+
+### Day 16: Wed 18-Jan-2017
 
 **Today’s Progress**:
 
@@ -369,7 +392,6 @@ A day of solid achievement:
 
 * [this link](http://samatkins.me/)
 
-- - - -
-### Meta
+
 
 
