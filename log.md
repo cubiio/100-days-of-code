@@ -1,4 +1,23 @@
 # 100 Days Of Code - Log
+
+- - - -
+
+### Day 18: Fri 20-Jan-2017
+
+**Today’s Progress**:
+
+Now it’s official: my project passed the Udacity code review! In addition to this great news, today I built my first Python decorators. Finally got how they work and was able to write 4 different `@decorators` to control some of `get()` and `post()` methods.
+
+
+**Thoughts**
+
+* Great to have completed the project! I really feel like I’m making progress.
+
+**Link(s) to work**:
+
+* [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
+* [Demo: Cubiio Blog](https://cubiio-blog.appspot.com/)
+
 - - - -
 
 ### Day 17: Thu 19-Jan-2017
