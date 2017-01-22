@@ -11,14 +11,15 @@ Final tidy-up of my blog project:
 * Removed redundant Jinja controls on the templates. My code reviewer said all controls must be done server side and I wrote the decorators for various `get()` and `post()` methods to achieve this. 
 
 
-Then back to the item catalogue project, watched a few more of the videos from lesson 1. 
+Then back to the item catalogue project, watched a few more of the videos from lesson 1, and worked on the first problem set.
 
 **Thoughts**
 
-* Learned about queries using `SQLAlchemy`.
+* Learned about building a database and using queries via  `SQLAlchemy`. Interesting to compare it against Google App Engine, used in the last project. 
 
 **Link(s) to work**:
 
+* [Animal shelter: Problem Set](https://github.com/cubiio/animalshelter)
 * [Udacity project: Item Catalog](https://github.com/cubiio/fsnd-catalog)
 * [Udacity project: Blog](https://github.com/cubiio/fsnd-blog)
 
