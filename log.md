@@ -2,6 +2,56 @@
 
 - - - -
 
+### Day 20: Sun 22-Jan-2017
+
+**Today’s Progress**:
+
+Final tidy-up of my blog project: 
+
+* Removed redundant Jinja controls on the templates. My code reviewer said all controls must be done server side and I wrote the decorators for various `get()` and `post()` methods to achieve this. 
+
+
+Then back to the item catalogue project, watched a few more of the videos from lesson 1. 
+
+**Thoughts**
+
+* Learned about queries using `SQLAlchemy`.
+
+**Link(s) to work**:
+
+* [Udacity project: Item Catalog](https://github.com/cubiio/fsnd-catalog)
+* [Udacity project: Blog](https://github.com/cubiio/fsnd-blog)
+
+
+- - - -
+
+### Day 19: Sat 21-Jan-2017
+
+**Today’s Progress**:
+
+Tidy-up of my blog project: 
+
+* I corrected the `@user_logged_in` decorator to check for secure values 
+* Added tag v3.0
+* Updated the README
+
+Then on to the next project: item catalogue. 
+
+Watched a few of the videos from lesson 1 and created the database setup file to use with SQLAlchemy. 
+
+
+**Thoughts**
+
+* Good to get started on the next project. I got the Vagrant virtual box set-up. I last used this months ago for the Intro to Programming Nanodegree. 
+
+**Link(s) to work**:
+
+* [Udacity project: Item Catalog](https://github.com/cubiio/fsnd-catalog)
+* [Udacity project: Blog](https://github.com/cubiio/fsnd-blog)
+
+
+- - - -
+
 ### Day 18: Fri 20-Jan-2017
 
 **Today’s Progress**:
