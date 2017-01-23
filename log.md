@@ -2,6 +2,25 @@
 
 - - - -
 
+### Day 21: Mon 23-Jan-2017
+
+**Today’s Progress**:
+
+Study time. Today I built a simple Python web server, then learned about Flask, using CRUD with Flask and RESTful APIs.
+
+**Thoughts**
+
+* The benefit of using a framework is clear, really reduces the amount of repetitive code. That said, I fully understand the argument that you should know the language before diving into using a framework.
+* It was also very interesting to compare the Google App Engine framework with Flask. 
+
+
+**Link(s) to work**:
+
+* [Udacity lesson code](https://github.com/cubiio/fsnd-fsFoundations)
+
+
+- - - -
+
 ### Day 20: Sun 22-Jan-2017
 
 **Today’s Progress**:
@@ -20,7 +39,7 @@ Then back to the item catalogue project, watched a few more of the videos from l
 **Link(s) to work**:
 
 * [Animal shelter: Problem Set](https://github.com/cubiio/animalshelter)
-* [Udacity project: Item Catalog](https://github.com/cubiio/fsnd-catalog)
+* [Udacity lesson code](https://github.com/cubiio/fsnd-fsFoundations)
 * [Udacity project: Blog](https://github.com/cubiio/fsnd-blog)
 
 
@@ -47,7 +66,7 @@ Watched a few of the videos from lesson 1 and created the database setup file to
 
 **Link(s) to work**:
 
-* [Udacity project: Item Catalog](https://github.com/cubiio/fsnd-catalog)
+* [Udacity lesson code](https://github.com/cubiio/fsnd-fsFoundations)
 * [Udacity project: Blog](https://github.com/cubiio/fsnd-blog)
 
 
