@@ -1,4 +1,23 @@
 # 100 Days Of Code - Log
+- - - -
+
+### Day 22: Tue 24-Jan-2017
+
+**Today’s Progress**:
+
+* Learned about OAuth. Coded a Google Plus OAuth access, following along with the Udacity course videos and notes.
+
+
+**Thoughts**
+
+* Need to revisit some of the code tomorrow to make sure I understand it.
+* Will also start my next project in earnest tomorrow which will provide a good opportunity to practice building some OAuth integrations. I’m thinking of building Google and GitHub OAuth authorisations into my app.
+
+
+**Link(s) to work**:
+
+* [Oauth lesson code and mini-project](https://github.com/cubiio/oauth)
+
 
 - - - -
 
