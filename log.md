@@ -1,4 +1,32 @@
 # 100 Days Of Code - Log
+
+- - - -
+
+### Day 23: Wed 25-Jan-2017
+
+**Today’s Progress**:
+
+Started my next project, building an item catalogue (or catalog if you prefer) using Python Flask.
+
+* Design the database structure and built the code
+* Coded a database populater so I have some data for dev purposes
+* Built routes to render basic Jinja2 templates 
+* Added a form to add a new category
+Built a `POST` method to persist a new category to the Db
+* Added a form to add a new book, including a dropdown menu built with `{{category.variables}}`.
+* Built a `POST` method to persist a new book to the Db
+
+**Thoughts**
+
+* Feels good to be seriously coding again after a couple of days studying.
+* Particular pleased with my variable based dropdown menu, and how the `POST` method works alongside it.
+
+
+**Link(s) to work**:
+
+* [GitHub - FSND project - Item Catalog](https://github.com/cubiio/fsnd-item_catalog)
+
+
 - - - -
 
 ### Day 22: Tue 24-Jan-2017
