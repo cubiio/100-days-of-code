@@ -2,6 +2,29 @@
 
 - - - -
 
+### Day 24: Thu 26-Jan-2017
+
+**Today’s Progress**:
+
+Continued to work on my item catalogue using Python Flask.
+
+* Users can edit categories, and books
+* Users can delete categories, and books 
+* Added form validation using WTForms
+* Stared to build OAuth 2.0 login / logout functionality via Google
+
+**Thoughts**
+
+* Making good use of WTForms, and worked it out from using the documentation.
+
+
+**Link(s) to work**:
+
+* [GitHub - FSND project - Item Catalog](https://github.com/cubiio/fsnd-item_catalog)
+
+
+- - - -
+
 ### Day 23: Wed 25-Jan-2017
 
 **Today’s Progress**:
