@@ -2,6 +2,48 @@
 
 - - - -
 
+### Day 26: Sat 27-Jan-2017
+
+**Today’s Progress**:
+
+Continued to work on my item catalogue using Python Flask.
+
+* Refactoring using `Flask Blueprint`
+
+**Thoughts**
+
+* Refactored my `.py`  files and put in new folder structure, but getting some `BuildError`. Coming down with a cold, plus it’s the weekend, so bug squashing will have to wait. 
+
+
+**Link(s) to work**:
+
+* [GitHub - Item_catalog - dev branch](https://github.com/cubiio/fsnd-item_catalog/tree/dev)
+
+
+
+- - - -
+
+### Day 25: Fri 27-Jan-2017
+
+**Today’s Progress**:
+
+Continued to work on my item catalogue using Python Flask.
+
+* Completed OAuth 2.0 login / logout functionality via Google
+* Added local permission systems i.e. only ‘authors’ can edit / delete their own content
+
+**Thoughts**
+
+* I can see the advantages of using a micro framework like Flask, good functionality available with minimal code. One of the downsides is not knowing exactly how the underlying code works exactly.
+
+
+**Link(s) to work**:
+
+* [GitHub - FSND project - Item Catalog](https://github.com/cubiio/fsnd-item_catalog)
+
+
+- - - -
+
 ### Day 24: Thu 26-Jan-2017
 
 **Today’s Progress**:
