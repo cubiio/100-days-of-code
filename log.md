@@ -1,4 +1,18 @@
 # 100 Days Of Code - Log
+- - - -
+### Day 27: Sun 28-Jan-2017
+
+Weekend and family time, whilst also recovering from a cold, meant limited time to code.
+
+**Today’s Progress**:
+
+* Played around with `Flask Blueprint` creating a new skeleton repo to see how it all fits together.
+* Researched various topics to action tomorrow including CSRF tokens for WTForms.
+
+**Thoughts**
+
+* It was a good idea to simplify and start a new skeleton Blueprint repo to see how it works. I now get (via the excellent tracebackk from Werkzerug that `url_for()` in a Jinja template should read `{{url_for(‘BluePrintRouteName.MethodName’)}}`
+* Actually timing a day off from coding and my projects is a good thing mentally. I want to complete the 100 day challenge but as I’m able (currently at least) to put in significantly more than 1 hour a day into my projects, I might take Sundays off going forwards
 
 - - - -
 
