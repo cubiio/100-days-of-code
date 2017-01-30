@@ -1,6 +1,30 @@
 # 100 Days Of Code - Log
+
 - - - -
-### Day 27: Sun 28-Jan-2017
+### Day 28: Mon 30-Jan-2017
+
+**Progress:**
+
+* Refactored to `Flask Blueprint` including resolving various bugs (in particular making sure `url_for()` worked across all pages
+* Refactored my `database.py` file, and other modules are now DRY i.e. using `db_session` to connect to `database.py`
+* Implemented CSRF protection for my forms 
+* Added a `config.py` file
+* Linted my code with `pylint`
+* Added Bootstrap css files to the `/static/css` folder. Styling fun starts tomorrow!
+
+
+**Thoughts:**
+
+* Pleased with the refactoring achieved today
+* Backend mostly complete, will now shift to front-end
+
+**Link(s) to work:**
+
+* [GitHub - FSND project - Item Catalog](https://github.com/cubiio/fsnd-item_catalog)
+
+
+- - - -
+### Day 27: Sun 29-Jan-2017
 
 Weekend and family time, whilst also recovering from a cold, meant limited time to code.
 
@@ -12,24 +36,24 @@ Weekend and family time, whilst also recovering from a cold, meant limited time 
 **Thoughts**
 
 * It was a good idea to simplify and start a new skeleton Blueprint repo to see how it works. I now get (via the excellent tracebackk from Werkzerug that `url_for()` in a Jinja template should read `{{url_for(‘BluePrintRouteName.MethodName’)}}`
-* Actually timing a day off from coding and my projects is a good thing mentally. I want to complete the 100 day challenge but as I’m able (currently at least) to put in significantly more than 1 hour a day into my projects, I might take Sundays off going forwards
+* Actually taking a day off from coding and my projects is a good thing mentally. I want to complete the 100 day challenge but as I’m able (currently at least) to put in significantly more than 1 hour a day into my projects, I might take Sundays off going forwards
 
 - - - -
 
-### Day 26: Sat 27-Jan-2017
+### Day 26: Sat 28-Jan-2017
 
-**Today’s Progress**:
+**Today’s Progress:**
 
 Continued to work on my item catalogue using Python Flask.
 
 * Refactoring using `Flask Blueprint`
 
-**Thoughts**
+**Thoughts:**
 
 * Refactored my `.py`  files and put in new folder structure, but getting some `BuildError`. Coming down with a cold, plus it’s the weekend, so bug squashing will have to wait. 
 
 
-**Link(s) to work**:
+**Link(s) to work:**
 
 * [GitHub - Item_catalog - dev branch](https://github.com/cubiio/fsnd-item_catalog/tree/dev)
 
