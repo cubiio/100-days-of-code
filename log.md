@@ -1,4 +1,21 @@
 # 100 Days Of Code - Log
+- - - -
+### Day 29: Tue 31-Jan-2017
+
+**Progress:**
+
+* Bootstrap, bootstrap and more bootstrap
+* Finished the README document
+
+
+**Thoughts:**
+
+* Bootstrap is great when it works, fast and relatively easy to get a good looking, responsive site up and running. The difficulty is when you want to apply your own CSS and it doesn’t work, difficult to resolve as you don’t have the detail of what is in Bootstrap. Pros and cons of using Bootstrap I guess!
+
+**Link(s) to work:**
+
+* [GitHub - FSND project - Item Catalog](https://github.com/cubiio/fsnd-item_catalog)
+
 
 - - - -
 ### Day 28: Mon 30-Jan-2017
