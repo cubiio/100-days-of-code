@@ -1,4 +1,26 @@
 # 100 Days Of Code - Log
+
+- - - -
+### Day 30: Wed 1-Feb-2017
+
+**Progress:**
+
+* Updates to my Portfolio site including
+	* refactor Gulp tasks to simplify and remove folder structure
+	* add Nunjucks 
+	* refactor code into Nunjucks templates and partials
+	* add a for loop for my portfolio images and supporting info
+
+
+**Thoughts:**
+
+* Nice to play around with Nunjucks which feels just like a front-end version of Jinja2
+* Portfolio is now update to date with my latest Udacity projects
+
+**Link(s) to work:**
+
+* [GitHub: My Portfolio](https://github.com/cubiio/portfolio)
+
 - - - -
 ### Day 29: Tue 31-Jan-2017
 
