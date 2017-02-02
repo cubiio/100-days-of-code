@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+- - - -
+### Day 31: Thu 2-Feb-2017
+
+**Progress / Thoughts**
+
+* Played around with modals but couldn't get it to work as I liked it. Will revisit another time. 
+* Probably not part of the rules but did some Code Wars too. 
+
+**Link(s) to work:**
+
+* [GitHub: My Portfolio](https://github.com/cubiio/portfolio)
+
 
 - - - -
 ### Day 30: Wed 1-Feb-2017
