@@ -1,16 +1,26 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 32: Fri 3-Feb-2017
+
+**Progress / Thoughts**
+
+- Web scraping. Thoughts: interesting but picked a bad example to try it out(restrictions web scraping a search engine?)
+- Not strictly speaking ‘building shit’ but I followed this excellent [post](https://janikarhunen.fi/three-steps-to-lint-python-3-6-in-sublime-text.html) to install Flake8 Python linter for Sublime Text 3
+- Played around with Pelican - Python static blog generator. Verdict? I’m sticking with [Hugo](https://www.gohugo.io/)
+- Start lessons for my next project - a Neighbourhood Map built with JavaScript, and utilising various AJAX requests
+
+- - - -
+
 ### Day 31: Thu 2-Feb-2017
 
 **Progress / Thoughts**
 
-* Played around with modals but couldn't get it to work as I liked it. Will revisit another time. 
-* Probably not part of the rules but did some Code Wars too. 
+- Played around with modals but couldn't get it to work as I liked it. Will revisit another time.
+- Probably not part of the rules but did some Code Wars too.
 
 **Link(s) to work:**
 
-* [GitHub: My Portfolio](https://github.com/cubiio/portfolio)
-
+[GitHub - cubiio/portfolio: My Portfolio](https://github.com/cubiio/portfolio)
 
 - - - -
 ### Day 30: Wed 1-Feb-2017
