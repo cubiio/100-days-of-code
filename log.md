@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 33: Sat 4-Feb-2017
+
+**Progress / Thoughts**
+
+- Udacity lesssons re AJAX requests
+- Added NYT AJAX request, adding articles and anchor links relevant to the city submitted in the form 
+
+- [FSND mini-project: Move Planner using Javascript and AJAX requests](https://github.com/cubiio/fsnd-movePlanner)
+
+- - - -
 ### Day 32: Fri 3-Feb-2017
 
 **Progress / Thoughts**
