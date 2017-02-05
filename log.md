@@ -1,11 +1,22 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 34: Sun 5-Feb-2017
+
+**Progress / Thoughts:**
+
+- Sunday morning fun doing some Code Wars, practising my Python skills
+- Leveled up: I’m now **7kyu** 
+- [cubiio | Codewars](https://www.codewars.com/users/cubiio)
+
+- - - -
 ### Day 33: Sat 4-Feb-2017
 
-**Progress / Thoughts**
+**Progress / Thoughts:**
 
 - Udacity lesssons re AJAX requests
 - Added NYT AJAX request, adding articles and anchor links relevant to the city submitted in the form 
+
+**Link(s) to work:**
 
 - [FSND mini-project: Move Planner using Javascript and AJAX requests](https://github.com/cubiio/fsnd-movePlanner)
 
