@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 35: Mon 6-Feb-2017
+
+**Progress / Thoughts:**
+
+- Completed one Python challenge on Code Wars. Next project is JavaScript so want to continue learning more about Python
+- Udacity lesson code and started to learn about MV*, interesting stuff and can’t wait to get started on the project itself. Lots to learn before then though…
+
+**Link(s) to work:**
+
+- [Udacity FSND mini-project: Cat Clicker](https://github.com/cubiio/fsnd-cat-clicker/tree/master)
+
+- - - -
 ### Day 34: Sun 5-Feb-2017
 
 **Progress / Thoughts:**
