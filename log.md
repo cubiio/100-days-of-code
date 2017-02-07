@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 36: Tue 7-Feb-2017
+
+**Progress / Thoughts:**
+
+- My first code using MV* (* = Octopus i.e. the Controller). I understand the concept, applying and writing code is not so easy! Made a good stab of it with the Cat Clicker project, and saw how it is easier to add new functionality. My issue was adding functionality that actually worked :) although I got some aspects working in the time available.
+- On my ‘To Do’ list is to research and understand better the JavaScript keyword `this`. Used it in the code but not fully sure how it works (I think it is similar to `self` in Python…?)
+
+**Link(s) to work:**
+
+- [Udacity FSND mini-project: Cat Clicker](https://github.com/cubiio/fsnd-cat-clicker/tree/master)
+
+- - - -
 ### Day 35: Mon 6-Feb-2017
 
 **Progress / Thoughts:**
