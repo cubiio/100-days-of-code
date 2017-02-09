@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+### Day 38: Thu 9-Feb-2017
+
+**Progress / Thoughts:**
+
+- A good day. I applied my learnings from the Udacity lessons regarding [Knockout.js](http://knockoutjs.com/) to improve my Portfolio site. Specifically, I added Modals for each of my projects. I also refactored the hamburger / drawer menu for small media breakpoints. 
+
+**Link(s) to work:**
+
+- [GitHub - Portfolio source code](https://github.com/cubiio/portfolio)
+- [Portfolio: samatkins.me](http://samatkins.me/)
+
+- - - -
 
 ### Day 37: Wed 8-Feb-2017
 
@@ -12,7 +24,7 @@
 - [Udacity FSND mini-project: Cat Clicker](https://github.com/cubiio/fsnd-cat-clicker/tree/master)
 * [Udacity FSND mini-project: To Do app using Backbone.js](https://github.com/cubiio/fsnd-todo-app)
 
-***
+- - - -
 ### Day 36: Tue 7-Feb-2017
 
 **Progress / Thoughts:**
@@ -24,7 +36,7 @@
 
 - [Udacity FSND mini-project: Cat Clicker](https://github.com/cubiio/fsnd-cat-clicker/tree/master)
 
-***
+- - - -
 ### Day 35: Mon 6-Feb-2017
 
 **Progress / Thoughts:**
@@ -36,7 +48,7 @@
 
 - [Udacity FSND mini-project: Cat Clicker](https://github.com/cubiio/fsnd-cat-clicker/tree/master)
 
-***
+- - - -
 ### Day 34: Sun 5-Feb-2017
 
 **Progress / Thoughts:**
@@ -45,7 +57,7 @@
 - Leveled up: I’m now **7kyu** 
 - [cubiio | Codewars](https://www.codewars.com/users/cubiio)
 
-***
+- - - -
 ### Day 33: Sat 4-Feb-2017
 
 **Progress / Thoughts:**
@@ -57,7 +69,7 @@
 
 - [FSND mini-project: Move Planner using Javascript and AJAX requests](https://github.com/cubiio/fsnd-movePlanner)
 
-***
+- - - -
 ### Day 32: Fri 3-Feb-2017
 
 **Progress / Thoughts**
@@ -67,7 +79,7 @@
 - Played around with Pelican - Python static blog generator. Verdict? I’m sticking with [Hugo](https://www.gohugo.io/)
 - Start lessons for my next project - a Neighbourhood Map built with JavaScript, and utilising various AJAX requests
 
-***
+- - - -
 
 ### Day 31: Thu 2-Feb-2017
 
@@ -80,16 +92,16 @@
 
 [GitHub - cubiio/portfolio: My Portfolio](https://github.com/cubiio/portfolio)
 
-***
+- - - -
 ### Day 30: Wed 1-Feb-2017
 
 **Progress:**
 
 * Updates to my Portfolio site including
-    * refactor Gulp tasks to simplify and remove folder structure
-    * add Nunjucks 
-    * refactor code into Nunjucks templates and partials
-    * add a for loop for my portfolio images and supporting info
+	* refactor Gulp tasks to simplify and remove folder structure
+	* add Nunjucks 
+	* refactor code into Nunjucks templates and partials
+	* add a for loop for my portfolio images and supporting info
 
 
 **Thoughts:**
@@ -101,7 +113,7 @@
 
 * [GitHub: My Portfolio](https://github.com/cubiio/portfolio)
 
-***
+- - - -
 ### Day 29: Tue 31-Jan-2017
 
 **Progress:**
@@ -119,7 +131,7 @@
 * [GitHub - FSND project - Item Catalog](https://github.com/cubiio/fsnd-item_catalog)
 
 
-***
+- - - -
 ### Day 28: Mon 30-Jan-2017
 
 **Progress:**
@@ -142,7 +154,7 @@
 * [GitHub - FSND project - Item Catalog](https://github.com/cubiio/fsnd-item_catalog)
 
 
-***
+- - - -
 ### Day 27: Sun 29-Jan-2017
 
 Weekend and family time, whilst also recovering from a cold, meant limited time to code.
@@ -157,7 +169,7 @@ Weekend and family time, whilst also recovering from a cold, meant limited time 
 * It was a good idea to simplify and start a new skeleton Blueprint repo to see how it works. I now get (via the excellent tracebackk from Werkzerug that `url_for()` in a Jinja template should read `{{url_for(‘BluePrintRouteName.MethodName’)}}`
 * Actually taking a day off from coding and my projects is a good thing mentally. I want to complete the 100 day challenge but as I’m able (currently at least) to put in significantly more than 1 hour a day into my projects, I might take Sundays off going forwards
 
-***
+- - - -
 
 ### Day 26: Sat 28-Jan-2017
 
@@ -178,7 +190,7 @@ Continued to work on my item catalogue using Python Flask.
 
 
 
-***
+- - - -
 
 ### Day 25: Fri 27-Jan-2017
 
@@ -199,7 +211,7 @@ Continued to work on my item catalogue using Python Flask.
 * [GitHub - FSND project - Item Catalog](https://github.com/cubiio/fsnd-item_catalog)
 
 
-***
+- - - -
 
 ### Day 24: Thu 26-Jan-2017
 
@@ -222,7 +234,7 @@ Continued to work on my item catalogue using Python Flask.
 * [GitHub - FSND project - Item Catalog](https://github.com/cubiio/fsnd-item_catalog)
 
 
-***
+- - - -
 
 ### Day 23: Wed 25-Jan-2017
 
@@ -249,7 +261,7 @@ Built a `POST` method to persist a new category to the Db
 * [GitHub - FSND project - Item Catalog](https://github.com/cubiio/fsnd-item_catalog)
 
 
-***
+- - - -
 
 ### Day 22: Tue 24-Jan-2017
 
@@ -269,7 +281,7 @@ Built a `POST` method to persist a new category to the Db
 * [Oauth lesson code and mini-project](https://github.com/cubiio/oauth)
 
 
-***
+- - - -
 
 ### Day 21: Mon 23-Jan-2017
 
@@ -288,7 +300,7 @@ Study time. Today I built a simple Python web server, then learned about Flask, 
 * [Udacity lesson code](https://github.com/cubiio/fsnd-fsFoundations)
 
 
-***
+- - - -
 
 ### Day 20: Sun 22-Jan-2017
 
@@ -312,7 +324,7 @@ Then back to the item catalogue project, watched a few more of the videos from l
 * [Udacity project: Blog](https://github.com/cubiio/fsnd-blog)
 
 
-***
+- - - -
 
 ### Day 19: Sat 21-Jan-2017
 
@@ -339,7 +351,7 @@ Watched a few of the videos from lesson 1 and created the database setup file to
 * [Udacity project: Blog](https://github.com/cubiio/fsnd-blog)
 
 
-***
+- - - -
 
 ### Day 18: Fri 20-Jan-2017
 
@@ -357,7 +369,7 @@ Now it’s official: my project passed the Udacity code review! In addition to t
 * [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
 * [Demo: Cubiio Blog](https://cubiio-blog.appspot.com/)
 
-***
+- - - -
 
 ### Day 17: Thu 19-Jan-2017
 
@@ -378,7 +390,7 @@ Let’s see what the Udacity reviewer says…
 * [Demo: Cubiio Blog](https://cubiio-blog.appspot.com/)
 
 
-***
+- - - -
 
 ### Day 16: Wed 18-Jan-2017
 
@@ -401,7 +413,7 @@ _Build a blog project_
 
 * [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
 
-***
+- - - -
 
 ### Day 15: Tue 17-Jan-2017
 
@@ -419,17 +431,17 @@ Project: build a blog
 * Some good progress but mainly a day of frustration trying to figure our database queries and why my code either throw errors or wasn’t giving the expected result.
 * A tough day but learned a lot. 
 * Key lesson: write, test, iterate. 
-    * **Write** small pieces of code / functionality
-    * **Test** to see if it works and gives the expected result
-    * **Iterate** i.e. write the next small piece of code / functionality.
-    * Final thought: plan the **write / test / iterate** approach so you understand how to develop more and more functionality, whilst testing as you go to make sure it works. 
+	* **Write** small pieces of code / functionality
+	* **Test** to see if it works and gives the expected result
+	* **Iterate** i.e. write the next small piece of code / functionality.
+	* Final thought: plan the **write / test / iterate** approach so you understand how to develop more and more functionality, whilst testing as you go to make sure it works. 
 
 
 **Link(s) to work**:
 
 * [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
 
-***
+- - - -
 
 ### Day 14: Mon 16-Jan-2017
 
@@ -454,7 +466,7 @@ Project: build a blog
 
 * [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
 
----
+- - - -
 ### Day 13: Sun 15-Jan-2016
 
 **Today’s Progress**:
@@ -470,7 +482,7 @@ Family day but managed just over an hour early morning to work on adding authors
 
 * [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
 
----
+- - - -
 ### Day 12: Sat 14-Jan-2016
 
 **Today’s Progress**:
@@ -488,7 +500,7 @@ Family day but managed just over an hour early morning to work on adding authors
 * [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
 
 
----
+- - - -
 ### Day 11: Fri 13-Jan-2016
 
 **Today’s Progress**:
@@ -507,7 +519,7 @@ Continuing to add functionality to my build a blog project:
 * [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
 
 
----
+- - - -
 ### Day 10: Thu 12-Jan-2016
 
 **Today’s Progress**:
@@ -528,7 +540,7 @@ A day of solid achievement:
 
 * [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
 
----
+- - - -
 ### Day 9: Wed 11-Jan-2016
 
 **Today’s Progress**:
@@ -550,17 +562,17 @@ A day of solid achievement:
 * [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
 
 
----
+- - - -
 ### Day 8: Tue 10-Jan-2016
 
 **Today’s Progress**:
 
 * A quick win in the morning: redid my front-end workflow to include Nunjucks, and then did a simple imitation of Yeoman to scaffold a front end project using Python. Nothing fancy but folder structure gets set-up and the Github clone takes place, all from the command line.
 * Udacity FSND studies: 
-    * Jinja templates set-up
-    * Password and cookie hashing added
-    * Cookie checking and setting added
-    * Handlers for different pages added
+	* Jinja templates set-up
+	* Password and cookie hashing added
+	* Cookie checking and setting added
+	* Handlers for different pages added
 
 **Thoughts**:
 
@@ -574,7 +586,7 @@ A day of solid achievement:
 * [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
 
 
----
+- - - -
 ### Day 7: Mon 9-Jan-2016
 
 **Today’s Progress**:
@@ -599,7 +611,7 @@ A day of solid achievement:
 * [Nunjucks template](https://github.com/cubiio/nunjucks-template)
 * [Udacity project: blog](https://github.com/cubiio/fsnd-blog)
 
----
+- - - -
 ### Day 6: Sun 8-Jan-2016
 
 **Today’s Progress**:
@@ -614,7 +626,7 @@ A day of solid achievement:
 
 * [GitHub - Follow along with the book ‘Automate the boring stuff with Python’](https://github.com/cubiio/automate-boring-stuff-python)
 
----
+- - - -
 ### Day 5: Sat 7-Jan-2016
 
 **Today’s Progress**:
@@ -624,16 +636,16 @@ A day of solid achievement:
 **Thoughts**:
 
 * I gave some thought on how to develop the next level of functionality for the blog:
-    * User registration
-    * User login
-    * User logout
+	* User registration
+	* User login
+	* User logout
 * These form part of the problem sets and I will look to start coding these next week.
 
 **Link(s) to work**:
 
 * Source code [Python blog project](https://github.com/cubiio/fsnd-blog)
 
----
+- - - -
 ### Day 4: Friday, 6th January 2017
 **Today's Progress**:
 
@@ -648,7 +660,7 @@ A day of solid achievement:
 
 * [Security lesson code](https://github.com/cubiio/fsnd-security)
 
----
+- - - -
 ### Day 3: Thursday, 5th January 2017
 **Today's Progress**:
 
@@ -667,7 +679,7 @@ A day of solid achievement:
 * [Basic blog demo](https://cubiio-blog.appspot.com/)
 * [Security lesson code](https://github.com/cubiio/fsnd-security)
 
----
+- - - -
 ### Day 2: Wednesday, 4th January 2017
 **Today's Progress**:
 
@@ -682,13 +694,13 @@ A day of solid achievement:
 
 * [Blog GitHub Repo](https://github.com/cubiio/fsnd-blog)
 
----
+- - - -
 ### Day 1: Tuesday, 3rd January 2017
 **Today's Progress**:
 
 * Udacity FSND (Full-Stack Nanodegree) Intro to Databases module:
-    * More SQL (Structured Query Language) content, including the use of indices and the ACID principle
-    * Started ASCII Chan mini project: Python project using Google App Engine including the Datastore, and Jinja for HTML templates
+	* More SQL (Structured Query Language) content, including the use of indices and the ACID principle
+	* Started ASCII Chan mini project: Python project using Google App Engine including the Datastore, and Jinja for HTML templates
 
 **Thoughts**:
 
@@ -700,13 +712,13 @@ A day of solid achievement:
 * [Ascii Chan repo](https://github.com/cubiio/fsnd-aschiiChan)
 * [Database lesson repo](https://github.com/cubiio/fsnd-databases)
 
----
+- - - -
 ### Day 0: Monday, 2nd January 2017
 **Today's Progress**:
 
 * Udacity FSND (Full-Stack Nanodegree) Intro to Databases module.
-    * Learned about SQL (Structured Query Language)
-    * SQL queries in Python
+	* Learned about SQL (Structured Query Language)
+	* SQL queries in Python
 
 **Thoughts**:
 
@@ -717,7 +729,7 @@ A day of solid achievement:
 
 * [Github repo](https://github.com/cubiio/fsnd-databases)
 
----
+- - - -
 ### Day -1: Sunday, 1st January 2017
 **Today's Progress**:
 
@@ -733,10 +745,10 @@ A day of solid achievement:
 
 * [Sign-Up Form](https://cubiio-rot13.appspot.com/signup)
 
----
+- - - -
 ## Template / Example
 
----
+- - - -
 ### Day x: Tuesday, 3rd January 2017
 **Today's Progress**:
 
@@ -752,4 +764,4 @@ A day of solid achievement:
 
 
 
-#100DaysOfCode
+
