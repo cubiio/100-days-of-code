@@ -1,4 +1,21 @@
 # 100 Days Of Code - Log
+
+- - - -
+
+### Day 39: Fri 10-Feb-2017
+
+**Progress / Thoughts:**
+
+- Today was mainly spend planning my next project: a neighbourhood map single page app, using Google Maps API, and built on the MVVC design paradigm using Knockout.js
+- The code pushed to GitHub is a basic Google Maps render displaying a couple of location markers. 
+
+**Link(s) to work:**
+
+- [Udacity FSND Project: Neighbourhood Map](https://github.com/cubiio/fsnd-neighbourhood-map)
+
+
+- - - -
+
 ### Day 38: Thu 9-Feb-2017
 
 **Progress / Thoughts:**
