@@ -2,6 +2,34 @@
 
 - - - -
 
+### Day 42: Mon 13-Feb-2017
+
+**Progress / Thoughts:**
+
+- Some more refactoring / tinkering with my portfolio site.
+- Main coding today was on neighbourhood map project, getting to grips with the Google Maps API.
+- I know have clickable location markers that ’bounce’ and show an info window.
+
+**Link(s) to work:**
+
+- [GitHub - Portfolio source code](https://github.com/cubiio/portfolio)
+- [Udacity FSND Project: Neighbourhood Map](https://github.com/cubiio/fsnd-neighbourhood-map)
+
+- - - -
+
+### Day 41: Sun 12-Feb-2017
+
+- Mainly Python on CodeWars
+- Refactored how my modals are displayed / hidden using Knockout.js. Previously data bind used 'visible', this caused the modal to render at load then KO would set 'visible' to false i.e. hidden. By changing to 'style' bind, the element is 'display: none' at initial point of render, so the user doesn't (shouldn't) see a few ms of black screen (from the modal).
+- Updated my Gulp tasks 
+
+**Link(s) to work:**
+
+- [GitHub - Portfolio source code](https://github.com/cubiio/portfolio)
+- [Udacity FSND Project: Neighbourhood Map](https://github.com/cubiio/fsnd-neighbourhood-map)
+
+- - - -
+
 ### Day 40: Sat 11-Feb-2017
 
 - Python - learning some more via CodeWars
