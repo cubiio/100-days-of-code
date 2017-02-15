@@ -2,6 +2,32 @@
 
 - - - -
 
+### Day 44: Wed 15-Feb-2017
+
+**Progress / Thoughts:**
+
+- Focus of today was on Knockout observable arrays, specifically working out to allow a user to update an array.
+
+**Link(s) to work:**
+
+- [Udacity FSND Project: Neighbourhood Map](https://github.com/cubiio/fsnd-neighbourhood-map)
+
+
+- - - -
+
+### Day 43: Tue 14-Feb-2017
+
+**Progress / Thoughts:**
+
+- Worked on Foursquare API using `ajax` requests to populate Google Maps `InfoWindows` with information.
+
+**Link(s) to work:**
+
+- [Udacity FSND Project: Neighbourhood Map](https://github.com/cubiio/fsnd-neighbourhood-map)
+
+
+- - - -
+
 ### Day 42: Mon 13-Feb-2017
 
 **Progress / Thoughts:**
