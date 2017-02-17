@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+***
+
+### Day 46: Fri 17-Feb-2017
+
+**Progress / Thoughts:**
+
+Further progress on my neighbourhood map project:
+
+- Responsive styling using Sass and Flexbox 
+- Working on how to persist user defined favourited venues to `localStorage`
+
+**Link(s) to work:**
+
+- [Udacity FSND Project: Neighbourhood Map](https://github.com/cubiio/fsnd-neighbourhood-map)
+
 - - - -
 
 ### Day 45: Thu 16-Feb-2017
