@@ -2,6 +2,22 @@
 
 - - - -
 
+### Day 45: Thu 16-Feb-2017
+
+**Progress / Thoughts:**
+
+Good progress on my neighbourhood map project, progress made includes:
+
+* User filtered array. User input captured via a Knockout `textInput()` data-bind, and this variable is used to filter a Knockout observable array.
+* Favourite list of venues. This is user defined, by a right click on a location marker.
+
+**Link(s) to work:**
+
+- [Udacity FSND Project: Neighbourhood Map](https://github.com/cubiio/fsnd-neighbourhood-map)
+
+
+- - - -
+
 ### Day 44: Wed 15-Feb-2017
 
 **Progress / Thoughts:**
