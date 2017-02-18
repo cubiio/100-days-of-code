@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
+- - - -
 
-***
+### Day 47: Sat 18-Feb-2017
+
+**Progress / Thoughts:**
+- Finalising my neighbourhood map in order to submit for Udacity code review.
+
+**Link(s) to work:**
+
+- [Udacity FSND Project: Neighbourhood Map](https://github.com/cubiio/fsnd-neighbourhood-map)
+- [Neighbour Map Demo](http://cubiio-map.surge.sh/)
+
+
+- - - -
 
 ### Day 46: Fri 17-Feb-2017
 
@@ -9,7 +21,7 @@
 Further progress on my neighbourhood map project:
 
 - Responsive styling using Sass and Flexbox 
-- Working on how to persist user defined favourited venues to `localStorage`
+- Started looking at some Wes Bos Javascript courses - ES6 and Javascript30 
 
 **Link(s) to work:**
 
@@ -21,7 +33,7 @@ Further progress on my neighbourhood map project:
 
 **Progress / Thoughts:**
 
-Good progress on my neighbourhood map project, progress made includes:
+Good progress on my neighbourhood map project, including:
 
 * User filtered array. User input captured via a Knockout `textInput()` data-bind, and this variable is used to filter a Knockout observable array.
 * Favourite list of venues. This is user defined, by a right click on a location marker.
@@ -29,6 +41,7 @@ Good progress on my neighbourhood map project, progress made includes:
 **Link(s) to work:**
 
 - [Udacity FSND Project: Neighbourhood Map](https://github.com/cubiio/fsnd-neighbourhood-map)
+
 
 
 - - - -
