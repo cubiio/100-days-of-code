@@ -1,6 +1,39 @@
 # 100 Days Of Code - Log
 - - - -
 
+### Day 49: Mon 20-Feb-2017
+
+**Progress / Thoughts:**
+- Next project complete! 😀 👍 
+- It was my hardest project yet and a great feeling to complete a project, with MVVC design and using my first Javascript library.
+
+Onwards! 
+
+**Link(s) to work:**
+
+- [GitHub repo: Neighbourhood Map](https://github.com/cubiio/fsnd-neighbourhood-map)
+- [Neighbour Map Demo](http://cubiio-map.surge.sh/)
+- [BlogPost: Building a Neighbourhood Map](https://cubiio.github.io/2017/02/18/building_map_project/)
+
+
+- - - -
+
+### Day 48: Sun 19-Feb-2017
+
+**Progress / Thoughts:**
+Processing feedback from my code review, including:
+
+- changing my infowindow to a single instance for greater efficiency, and to improve UX (only one infowindow will be open at one time)
+- conforming to Sass style guides
+- and other general refactoring 
+
+**Link(s) to work:**
+
+- [Udacity FSND Project: Neighbourhood Map](https://github.com/cubiio/fsnd-neighbourhood-map)
+
+
+- - - -
+
 ### Day 47: Sat 18-Feb-2017
 
 **Progress / Thoughts:**
