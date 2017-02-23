@@ -1,4 +1,22 @@
 # 100 Days Of Code - Log
+
+- - - -
+### Day 52: Thu 22-Feb-2017
+
+I discovered HankerRank and am working through some Python algorithms. 
+
+On the Linux server front, I followed [this](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps) tutorial from Digital Ocean and got a simple Flask App to render. 
+
+- - - -
+### Day 51: Wed 21-Feb-2017
+
+Today was mainly getting very frustrated with a Linux Ubuntu server on Amazon LightSail.
+
+- - - -
+### Day 50: Tue 21-Feb-2017
+
+Today was mainly learning and playing around with a Linux Ubuntu server on Amazon LightSail. 
+
 - - - -
 
 ### Day 49: Mon 20-Feb-2017
