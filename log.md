@@ -1,11 +1,17 @@
 # 100 Days Of Code - Log
 
-- - - -
+***
 ### Day 52: Thu 22-Feb-2017
+
+**Progress / Thoughts:**
 
 I discovered HankerRank and am working through some Python algorithms. 
 
-On the Linux server front, I followed [this](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps) tutorial from Digital Ocean and got a simple Flask App to render. 
+On the Linux server front, I followed [this](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps) tutorial from Digital Ocean and got a simple Flask App to render. Then I built on top of it to get my Catalogue Item app live! 👍
+
+**Link(s) to work:**
+
+- [GitHub: Linux Ubuntu config](https://github.com/cubiio/fsnd-ubuntu)
 
 - - - -
 ### Day 51: Wed 21-Feb-2017
