@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 
 ***
+### Day 53: Fri 23-Feb-2017
+
+**Progress / Thoughts:**
+
+Finalised my Linux Ubuntu project. App is live and server is secured! 
+
+Also, some algorithm study/play with Udacity and Hankerrank, and a couple of Wes Bos videos on ES6 and Webpack.
+
+**Link(s) to work:**
+
+- [GitHub: Linux Ubuntu config](https://github.com/cubiio/fsnd-ubuntu)
+
+
+***
 ### Day 52: Thu 22-Feb-2017
 
 **Progress / Thoughts:**
