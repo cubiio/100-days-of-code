@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 ***
+### Day 54: Sat 24-Feb-2017
+
+**Progress / Thoughts:**
+
+Added additional security to my Linux Ubuntu server with `fail2ban`.
+
+Also, some more algorithm study/play courtesy of Udacity.
+
+**Link(s) to work:**
+
+- [GitHub: Linux Ubuntu config](https://github.com/cubiio/fsnd-ubuntu)
+
+***
 ### Day 53: Fri 23-Feb-2017
 
 **Progress / Thoughts:**
