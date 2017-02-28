@@ -1,7 +1,22 @@
 # 100 Days Of Code - Log
 
-***
-### Day 54: Sat 24-Feb-2017
+- - - -
+### Day 57: Tuesday 28-Feb-2017
+
+Learning about Trees with Udacity, plus trying to do some CodeWars (is AWS down??)
+
+- - - -
+### Day 56: Monday 27-Feb-2017
+
+Installed `Glances` on my Ubuntu project. Plus the daily call for more algorithm practice with Udacity and HackerRank. 
+
+- - - -
+### Day 55: Sunday 26-Feb-2017
+
+More algorithm practice with Udacity and HackerRank. 
+
+- - - -
+### Day 54: Sat 25-Feb-2017
 
 **Progress / Thoughts:**
 
@@ -13,8 +28,8 @@ Also, some more algorithm study/play courtesy of Udacity.
 
 - [GitHub: Linux Ubuntu config](https://github.com/cubiio/fsnd-ubuntu)
 
-***
-### Day 53: Fri 23-Feb-2017
+- - - -
+### Day 53: Fri 24-Feb-2017
 
 **Progress / Thoughts:**
 
@@ -27,8 +42,8 @@ Also, some algorithm study/play with Udacity and Hankerrank, and a couple of Wes
 - [GitHub: Linux Ubuntu config](https://github.com/cubiio/fsnd-ubuntu)
 
 
-***
-### Day 52: Thu 22-Feb-2017
+- - - -
+### Day 52: Thu 23-Feb-2017
 
 **Progress / Thoughts:**
 
@@ -41,7 +56,7 @@ On the Linux server front, I followed [this](https://www.digitalocean.com/commun
 - [GitHub: Linux Ubuntu config](https://github.com/cubiio/fsnd-ubuntu)
 
 - - - -
-### Day 51: Wed 21-Feb-2017
+### Day 51: Wed 22-Feb-2017
 
 Today was mainly getting very frustrated with a Linux Ubuntu server on Amazon LightSail.
 
