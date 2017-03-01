@@ -1,4 +1,10 @@
 # 100 Days Of Code - Log
+- - - -
+### Day 58: Wednesday 1-Mar-2017
+
+More algorithm and data type lessons with Udacity, plus some other algorithm work. 
+
+(I know this stuff is really important but I’m itching to start another project!)
 
 - - - -
 ### Day 57: Tuesday 28-Feb-2017
