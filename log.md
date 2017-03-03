@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+
+- - - -
+### Day 60: Fri 3-Mar-2017
+
+Yet more algorithm and data type lessons with Udacity. 
+
+- - - -
+### Day 59: Thu 2-Mar-2017
+
+More algorithm and data type lessons with Udacity, plus some other algorithm work. 
+
+Also, I discovered pip-tools and `pip-compile requirements.in`. Nice. 
+
 - - - -
 ### Day 58: Wednesday 1-Mar-2017
 
