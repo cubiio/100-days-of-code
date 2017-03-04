@@ -1,4 +1,8 @@
 # 100 Days Of Code - Log
+- - - -
+### Day 61: Sat 4-Mar-2017
+
+Graphs, traversals and searches. 
 
 - - - -
 ### Day 60: Fri 3-Mar-2017
