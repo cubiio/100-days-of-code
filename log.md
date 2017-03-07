@@ -7,7 +7,7 @@ Completed technical learning modules (some CS fundamentals).
 Also found a few moments for some CodeWars and to start Wes Bos’ es6 course.
 
 - - - -
-### Day 62 - 63: Sun 4 and Mon 5-Mar-2017
+### Day 62 - 63: Sun 5 and Mon 6-Mar-2017
 
 Sick, no coding. 🤒 🤧 
 
