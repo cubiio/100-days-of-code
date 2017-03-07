@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 64: Tue 7-Mar-2017
+
+Completed technical learning modules (some CS fundamentals). 
+
+Also found a few moments for some CodeWars and to start Wes Bos’ es6 course.
+
+- - - -
+### Day 62 - 63: Sun 4 and Mon 5-Mar-2017
+
+Sick, no coding. 🤒 🤧 
+
+- - - -
 ### Day 61: Sat 4-Mar-2017
 
 Graphs, traversals and searches. 
