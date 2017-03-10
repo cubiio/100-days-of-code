@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 67: Fri 10-Mar-2017
+
+Started to learn some React and am building something again. I’m following the excellent course by Wes Bos:
+
+[React For Beginners — The best way to learn React](https://reactforbeginners.com/) 
+
+It feels good after a break and some focus on the more technical aspects of programming to be coding and building something. Whilst this technical learning stand me in good stead, I love the feeling of actually coding and building an app. 
+
+**Link(s) to work:**
+
+- [React App ‘Catch of the Day’ built following the Wes Bos course.](https://github.com/cubiio/react-wbcourse)
+
+- - - -
+### Day 66: Thu 9-Mar-2017
+
+More ES6 courtesy of Wes Bos.
+
+- - - -
+### Day 65: Wed 8-Mar-2017
+
+Learning ES6 with Wes Bos’ course.
+
+- - - -
 ### Day 64: Tue 7-Mar-2017
 
 Completed technical learning modules (some CS fundamentals). 
