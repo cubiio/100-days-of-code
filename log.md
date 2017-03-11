@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 68: Sat 11-Mar-2017
+
+More learning React and building the ‘Catch of the Day’ app.
+
+**Link(s) to work:**
+
+- [React App ‘Catch of the Day’ built following the Wes Bos course.](https://github.com/cubiio/react-wbcourse)
+
+
+- - - -
 ### Day 67: Fri 10-Mar-2017
 
 Started to learn some React and am building something again. I’m following the excellent course by Wes Bos:
