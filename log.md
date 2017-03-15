@@ -1,5 +1,42 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 72: Wed 15-Mar-2017
+
+Built my first app using React, a Markdown Previewer. Somewhat basic but start small and all that. 
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/react-markdownPreviewer: A Markdown Previewer built using React.js](https://github.com/cubiio/react-markdownPreviewer)
+- [Demo - Markdown Previewer](https://build-cneetxakhr.now.sh/)
+
+- - - -
+### Day 71: Tue 14-Mar-2017
+
+Day 2 of learning Redux via the excellent Wes Bos course.
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/learn-redux](https://github.com/cubiio/learn-redux)
+
+- - - -
+### Day 70: Mon 13-Mar-2017
+
+Day 1 of learning Redux via the excellent Wes Bos course. Building an Instagram clone. 
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/learn-redux](https://github.com/cubiio/learn-redux)
+
+- - - -
+### Day 69: Sun 12-Mar-2017
+
+Finished the Wes Bos course and built the ‘Catch of the Day’ app.
+
+**Link(s) to work:**
+
+- [React App ‘Catch of the Day’ built following the Wes Bos course.](https://github.com/cubiio/react-wbcourse)
+
+- - - -
 ### Day 68: Sat 11-Mar-2017
 
 More learning React and building the ‘Catch of the Day’ app.
