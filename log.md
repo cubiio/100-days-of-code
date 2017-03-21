@@ -1,4 +1,39 @@
 # 100 Days Of Code - Log
+
+- - - -
+### Day 75: Tue 21-Mar-2017
+
+Lots of work today so not much time for coding. Did manage to squeeze in one of the JavaScript 30 challenges from the Wes Bos course. 
+
+- - - -
+### Day 74: Mon 20-Mar-2017
+
+Built a drum machine using JavaScript. It's fairly simple but what pleases me is I refactored the original version with a horrible if statement to using `dataset`. 
+
+**Link(s) to work:**
+
+- [JavaScript Drum Machine](https://github.com/cubiio/js-drum-machine)
+
+
+### Weekend Reflection
+
+A lot going on so I took the weekend off. Spent time with family, and it also gave me time to reflect. 
+
+I consider myself a Pythonista although I'm making no declarations about my skill level. Just that I like to write Python code. 
+
+But I need to level up in my JavaScript. So my focus is JavaScrip and React for now. 
+
+- - - -
+### Day 73: Thu 16-Mar-2017
+
+Time to build my next React app. The idea for this came from FreeCodeCamp - a recipe box. 
+
+Really enjoying using React so this next app will be more complex and I will look to use React-Router and Redux.
+
+**Link(s) to work:**
+
+- [GitHub Recipe box app](https://github.com/cubiio/react-recipebox)
+
 - - - -
 ### Day 72: Wed 15-Mar-2017
 
@@ -1092,7 +1127,5 @@ A day of solid achievement:
 **Link(s) to work**:
 
 * [this link](http://samatkins.me/)
-
-
 
 
