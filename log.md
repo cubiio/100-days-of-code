@@ -1,6 +1,55 @@
 # 100 Days Of Code - Log
 
 - - - -
+### Day 82: Tue 28-Mar-2017
+
+Completed my pomodoro clock app built with React.js.
+
+**Link(s) to work:**
+
+- [GitHub - Pomodoro app built with React.js](https://github.com/cubiio/pomodoro-app)
+- [Pomodoro App Demo - React.js](http://cubiio-pomodoro.surge.sh/)
+
+- - - -
+### Day 81: Mon 27-Mar-2017
+
+Learning some more JavaScript, practising array manipulation, and started work on a pomodoro clock app built with React.js.
+
+**Link(s) to work:**
+
+- [GitHub - Pomodoro app built with React.js](https://github.com/cubiio/pomodoro-app)
+- [Pomodoro App Demo - React.js](http://cubiio-pomodoro.surge.sh/)
+
+- - - -
+### Day 80: Sun 26-Mar-2017
+
+Practising arrays and data manipulation.
+
+
+- - - -
+### Day 79: Sat 25-Mar-2017
+
+Exploring a little of JavaScript and some Node.js (more just to satisfy my curiosity at a high level).
+
+
+- - - -
+### Day 78: Fri 24-Mar-2017
+
+JavaScript 30 challenges from the Wes Bos course.
+
+
+- - - -
+### Day 77: Thu 23-Mar-2017
+
+JavaScript 30 challenges from the Wes Bos course.
+
+
+- - - -
+### Day 76: Wed 22-Mar-2017
+
+JavaScript 30 challenges from the Wes Bos course.
+
+- - - -
 ### Day 75: Tue 21-Mar-2017
 
 Lots of work today so not much time for coding. Did manage to squeeze in one of the JavaScript 30 challenges from the Wes Bos course. 
@@ -14,6 +63,7 @@ Built a drum machine using JavaScript. It's fairly simple but what pleases me is
 
 - [JavaScript Drum Machine](https://github.com/cubiio/js-drum-machine)
 
+- - - -
 
 ### Weekend Reflection
 
