@@ -1,4 +1,52 @@
 # 100 Days Of Code - Log
+- - - -
+### Day 88: Mon 3-Apr-2017
+
+More Node.js and Mongo DB. Using Mongoose to build GET, POST and DELETE routes/URL endpoints, Postman to validate, and tests to check everything is working. 
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/node-todo-api](https://github.com/cubiio/node-todo-api/tree/master)
+
+- - - -
+### Day 87: Sun 2-Apr-2017
+
+More Node.js and Mongo DB.
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/node-todo-api](https://github.com/cubiio/node-todo-api/tree/master)
+- - - -
+### Day 86: Sat 1-Apr-2017
+
+Node.js and Mongo DB.
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/node-todo-api](https://github.com/cubiio/node-todo-api/tree/master)
+
+- - - -
+### Day 85: Fri 31-Mar-2017
+
+More Node.js and learning about BDD testing (Mocha, Expect, Supertest and rewire).
+
+**Link(s) to work:**
+
+- [Node Testing](https://github.com/cubiio/node-tests/tree/master)
+
+- - - -
+### Day 84: Thu 30-Mar-2017
+
+More Node.js - I built a simple weather app.
+
+**Link(s) to work:**
+
+- [GitHub - node-weather-app](https://github.com/cubiio/node-weather-app)
+
+- - - -
+### Day 83: Wed 29-Mar-2017
+
+Learning some Node.js in order to increase my understanding of how front-end and back-end work together, with the intent of building some full-stack apps in the future. 
 
 - - - -
 ### Day 82: Tue 28-Mar-2017
