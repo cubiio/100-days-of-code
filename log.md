@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 89: Tue 4-Apr-2017
+
+More Node.js and Mongo DB. Built a PATCH (i.e. update) route, and used Postman to validate (man, I love Postman, what a great tool). 
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/node-todo-api](https://github.com/cubiio/node-todo-api/tree/master)
+
+- - - -
 ### Day 88: Mon 3-Apr-2017
 
 More Node.js and Mongo DB. Using Mongoose to build GET, POST and DELETE routes/URL endpoints, Postman to validate, and tests to check everything is working. 
