@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 90: Wed 5-Apr-2017
+
+Wrote some tests for my PATCH url, using Mocha, Expect and Supertest. (Only 10 days to go!!)
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/node-todo-api](https://github.com/cubiio/node-todo-api/tree/master)
+
+- - - -
 ### Day 89: Tue 4-Apr-2017
 
 More Node.js and Mongo DB. Built a PATCH (i.e. update) route, and used Postman to validate (man, I love Postman, what a great tool). 
