@@ -1,5 +1,44 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 94: Sun 9-Apr-2017
+
+Added tests for GET and POST user routes.
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/node-todo-api](https://github.com/cubiio/node-todo-api/tree/master)
+
+- - - -
+### Day 93: Sat 8-Apr-2017
+
+Added password hashing before passwords are saved to MongoDB.
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/node-todo-api](https://github.com/cubiio/node-todo-api/tree/master)
+
+- - - -
+### Day 92: Fri 7-Apr-2017
+
+Added email validation to the sign-up route.
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/node-todo-api](https://github.com/cubiio/node-todo-api/tree/master)
+
+- - - -
+### Day 91: Thu 6-Apr-2017
+
+Added the following:
+
+- Standard.js to take care of styling. 
+- ENV variables for test, development and prod
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/node-todo-api](https://github.com/cubiio/node-todo-api/tree/master)
+
+- - - -
 ### Day 90: Wed 5-Apr-2017
 
 Wrote some tests for my PATCH url, using Mocha, Expect and Supertest. (Only 10 days to go!!)
