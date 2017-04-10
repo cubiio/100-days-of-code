@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 - - - -
+### Day 95: Mon 10-Apr-2017
+
+**ToDo App**
+Added private routes (local permission systems) to create, edit and delete todos. In addition, added tests and updated tests to check the routes work as expected.
+
+**Chat App**
+Started a chat app which will be built with Node.js and Socket.io
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/node-todo-api](https://github.com/cubiio/node-todo-api/tree/master)
+- [GitHub - cubiio/node-chat-app](https://github.com/cubiio/node-chat-app)
+
+- - - -
 ### Day 94: Sun 9-Apr-2017
 
 Added tests for GET and POST user routes.
