@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+
+- - - -
+### Day 96: Tue 11-Apr-2017
+
+**Chat App**
+Finished off the chat app lessons. The app has a joining page where the user enters their name and the room to join. When in the room, messages are emitted only to that  room. 
+
+Really good course, learned a lot. Question now is: continue with Node or go back to Python? Go back to Python of course but I enjoyed learning Node and will be back to build some more apps using Node in the future.
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/node-chat-app](https://github.com/cubiio/node-chat-app)
+
 - - - -
 ### Day 95: Mon 10-Apr-2017
 
