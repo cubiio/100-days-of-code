@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 - - - -
+
+### Day 97: Wed 12-Apr-2017
+
+**Django Time**
+Time to head back to the world of Python and learn some Django. Starting off by following the [tutorial](https://docs.djangoproject.com/en/1.11/intro/tutorial01/) on the Django site, then will look to build something of my own using Django. 
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/django-tutorial](https://github.com/cubiio/django-tutorial/tree/master)
+
+- - - -
 ### Day 96: Tue 11-Apr-2017
 
 **Chat App**
