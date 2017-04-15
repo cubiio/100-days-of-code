@@ -2,6 +2,37 @@
 
 - - - -
 
+### Day 100: Sat 15-Apr-2017
+
+Finished the Django tutorial, improving the admin layout and adding static files to the polls app.
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/django-tutorial](https://github.com/cubiio/django-tutorial/tree/master)
+
+
+- - - -
+
+### Day 99: Fri 14-Apr-2017
+
+More Django including adding some tests. 
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/django-tutorial](https://github.com/cubiio/django-tutorial/tree/master)
+
+- - - -
+
+### Day 98: Thu 13-Apr-2017
+
+More Django following the tutorial, plus gathering thoughts on what app to build after the tutorial…
+
+**Link(s) to work:**
+
+- [GitHub - cubiio/django-tutorial](https://github.com/cubiio/django-tutorial/tree/master)
+
+- - - -
+
 ### Day 97: Wed 12-Apr-2017
 
 **Django Time**
